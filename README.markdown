@@ -1,7 +1,7 @@
 SUMMARY
 =======
 
-This is collection of small and simple sources sometimes written by me
+This is collection of small and simple sources sources had once written by me
 
 
 find_sqfs.c
